@@ -1,10 +1,10 @@
 # Hello, my name is Gabriel Gerage Rochelle
 
 <div>
-<img align="center" width="350" height="180" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
+<img align="center" width="350" height="180" src="https://raw.githubusercontent.com/gabrielkiwi/gabrielkiwi/mainnbou/giphy.gif">
     
  
-<a href="https://github.com/Ktch4u">
+<a href="https://github.com/gabrielkiwi">
   
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielkiwi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
