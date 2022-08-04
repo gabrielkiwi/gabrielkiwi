@@ -1,7 +1,7 @@
 # Hello, my name is Gabriel Gerage Rochelle
 
 I'm an engineering student with taste for programming.
-I'm starting this data science journey with thrill, and can't wait to see new horizons.
+I'm starting this data science journey with thrill, and can't wait to look at new horizons.
 Looking forward to uploading my new projects here.
 
 Feel free to contact me on the social networks bellow, and follow me on this adventure.
