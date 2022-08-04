@@ -1,5 +1,11 @@
 # Hello, my name is Gabriel Gerage Rochelle
 
+I'm an engineering student with taste for programming.
+I'm starting this data science journey with thrill, and can't wait to see new horizons.
+Looking forward to uploading my new projects here.
+
+Feel free to contact me on the social networks bellow, and follow me on this adventure.
+
 <div>
 <img align="center" width="250" height="180" src="https://raw.githubusercontent.com/gabrielkiwi/gabrielkiwi/main/giphy.gif">
  
